@@ -1,0 +1,3 @@
+- `skills/` — skill graph JSON (`engineering_calculus.json`, M6)
+- `narration/en/` — narration templates per `narration_key`, three styles each (M4)
+- `samples/` — hand-written BoardScripts for the renderer spike (M1)
